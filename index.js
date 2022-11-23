@@ -4,7 +4,7 @@ const fs = require("fs").promises;
 const mongoose = require("mongoose");
 
 // Connect mongo db
-mongoose.connect("mongodb+srv://SaadatAli:RXy1YbmxER4GRsj2@cluster0.qg9knqb.mongodb.net/?retryWrites=true&w=majority");
+// mongoose.connect("mongodb+srv://SaadatAli:RXy1YbmxER4GRsj2@cluster0.qg9knqb.mongodb.net/?retryWrites=true&w=majority");
 
 const ChartDataSchema = new mongoose.Schema({
   coin_id: String,
@@ -38,32 +38,32 @@ const init = async () => {
     },
   });
 
-  server.route({
-    method: "GET",
-    path: "/v4/details/chart/{id}",
-    handler: async (request, h) => {
-      const { id } = request.params;
+  // server.route({
+  //   method: "GET",
+  //   path: "/v4/details/chart/{id}",
+  //   handler: async (request, h) => {
+  //     const { id } = request.params;
 
-      const chartData = await ChartData.findOne({
-        coin_id: id,
-      });
+  //     const chartData = await ChartData.findOne({
+  //       coin_id: id,
+  //     });
 
-      if (chartData) {
-        console.log("from db");
-        return h.response(chartData).code(200);
-      } else {
-        console.log("from api");
-        const data = await fetchChartData(id);
-        const chartData = new ChartData({
-          coin_id: id,
-          prices: data.prices,
-        });
-        chartData.save();
-        return h.response(data).code(200);
-      }
+  //     if (chartData) {
+  //       console.log("from db");
+  //       return h.response(chartData).code(200);
+  //     } else {
+  //       console.log("from api");
+  //       const data = await fetchChartData(id);
+  //       const chartData = new ChartData({
+  //         coin_id: id,
+  //         prices: data.prices,
+  //       });
+  //       chartData.save();
+  //       return h.response(data).code(200);
+  //     }
       
-    },
-  });
+  //   },
+  // });
 
   await server.start();
   console.log("Server running on %s", server.info.uri);

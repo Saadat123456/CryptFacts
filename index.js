@@ -3,9 +3,6 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 const fs = require("fs").promises;
 const mongoose = require("mongoose");
 
-// Connect mongo db
-mongoose.connect("mongodb+srv://SaadatAli:RXy1YbmxER4GRsj2@cluster0.qg9knqb.mongodb.net/?retryWrites=true&w=majority");
-
 const ChartDataSchema = new mongoose.Schema({
   coin_id: String,
   prices: mongoose.Schema.Types.Mixed,
@@ -74,4 +71,12 @@ process.on("unhandledRejection", (err) => {
   process.exit(1);
 });
 
-init();
+// Connect mongo db
+mongoose.connect("mongodb+srv://SaadatAli:RXy1YbmxER4GRsj2@cluster0.qg9knqb.mongodb.net/?retryWrites=true&w=majority", (err) => {
+  if (err) {
+    console.log(err);
+  } else {
+    console.log("Connected to db");
+    init();
+  }
+});

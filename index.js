@@ -63,6 +63,8 @@ const init = async () => {
   });
 
   await server.start();
+  console.log(server.info);
+  console.log(server.info.address);
   console.log("Server running on %s", server.info.uri);
 };
 

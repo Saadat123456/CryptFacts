@@ -25,7 +25,9 @@
     "atl_change_percentage": 24030.98888,
     "atl_date": "2013-07-06T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.626Z"
+    "last_updated": "2022-11-23T17:25:43.626Z",
+    "tags": "Cryptocurrency",
+    "website": "https://bitcoin.org/en/"
   },
   {
     "id": "ethereum",
@@ -57,7 +59,9 @@
       "currency": "btc",
       "percentage": 9339.396383370882
     },
-    "last_updated": "2022-11-23T17:25:37.391Z"
+    "last_updated": "2022-11-23T17:25:37.391Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.ethereum.org/"
   },
   {
     "id": "tether",
@@ -85,7 +89,9 @@
     "atl_change_percentage": 74.70219,
     "atl_date": "2015-03-02T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:20.844Z"
+    "last_updated": "2022-11-23T17:25:20.844Z",
+    "tags": "Ethereumpow Ecosystem",
+    "website": "https://tether.to/en/"
   },
   {
     "id": "binancecoin",
@@ -113,7 +119,9 @@
     "atl_change_percentage": 736215.53068,
     "atl_date": "2017-10-19T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.279Z"
+    "last_updated": "2022-11-23T17:25:45.279Z",
+    "tags": "Moonriver Ecosystem",
+    "website": "https://www.binance.com/en-GB"
   },
   {
     "id": "usd-coin",
@@ -141,7 +149,9 @@
     "atl_change_percentage": 12.13331,
     "atl_date": "2021-05-19T13:14:05.611Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:37.018Z"
+    "last_updated": "2022-11-23T17:25:37.018Z",
+    "tags": "Velas Ecosystem",
+    "website": "https://www.circle.com/en/usdc"
   },
   {
     "id": "binance-usd",
@@ -169,7 +179,9 @@
     "atl_change_percentage": 11.06482,
     "atl_date": "2021-05-19T13:04:37.445Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.039Z"
+    "last_updated": "2022-11-23T17:25:45.039Z",
+    "tags": "Velas Ecosystem",
+    "website": "https://paxos.com/busd/"
   },
   {
     "id": "ripple",
@@ -197,7 +209,9 @@
     "atl_change_percentage": 13877.09476,
     "atl_date": "2014-05-22T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:21.370Z"
+    "last_updated": "2022-11-23T17:25:21.370Z",
+    "tags": "Cryptocurrency",
+    "website": "https://ripple.com/solutions/cross-border-payments/"
   },
   {
     "id": "cardano",
@@ -225,7 +239,9 @@
     "atl_change_percentage": 1527.25214,
     "atl_date": "2020-03-13T02:22:55.044Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.233Z"
+    "last_updated": "2022-11-23T17:25:44.233Z",
+    "tags": "Cardano Ecosystem",
+    "website": "https://cardano.org/"
   },
   {
     "id": "dogecoin",
@@ -253,7 +269,9 @@
     "atl_change_percentage": 91967.65221,
     "atl_date": "2015-05-06T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.692Z"
+    "last_updated": "2022-11-23T17:25:43.692Z",
+    "tags": "Meme",
+    "website": "https://dogecoin.com/"
   },
   {
     "id": "matic-network",
@@ -285,7 +303,9 @@
       "currency": "usd",
       "percentage": 31987.174497431573
     },
-    "last_updated": "2022-11-23T17:25:44.432Z"
+    "last_updated": "2022-11-23T17:25:44.432Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://polygon.technology/"
   },
   {
     "id": "polkadot",
@@ -313,7 +333,9 @@
     "atl_change_percentage": 97.81023,
     "atl_date": "2020-08-20T05:48:11.359Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.311Z"
+    "last_updated": "2022-11-23T17:25:44.311Z",
+    "tags": "Polkadot",
+    "website": "https://polkadot.network/"
   },
   {
     "id": "litecoin",
@@ -341,7 +363,9 @@
     "atl_change_percentage": 6592.764,
     "atl_date": "2015-01-14T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:18.861Z"
+    "last_updated": "2022-11-23T17:25:18.861Z",
+    "tags": "Cryptocurrency",
+    "website": "https://litecoin.org/"
   },
   {
     "id": "staked-ether",
@@ -369,7 +393,9 @@
     "atl_change_percentage": 135.01321,
     "atl_date": "2020-12-22T04:08:21.854Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:41.412Z"
+    "last_updated": "2022-11-23T17:25:41.412Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.lido.fi/"
   },
   {
     "id": "dai",
@@ -397,7 +423,9 @@
     "atl_change_percentage": 10.80704,
     "atl_date": "2019-11-25T00:04:18.137Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:39.771Z"
+    "last_updated": "2022-11-23T17:25:39.771Z",
+    "tags": "Velas Ecosystem",
+    "website": "https://makerdao.com/"
   },
   {
     "id": "okb",
@@ -425,7 +453,9 @@
     "atl_change_percentage": 3542.85565,
     "atl_date": "2019-01-14T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:40.336Z"
+    "last_updated": "2022-11-23T17:25:40.336Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.okx.com/okb"
   },
   {
     "id": "shiba-inu",
@@ -453,7 +483,9 @@
     "atl_change_percentage": 15732670.97279,
     "atl_date": "2020-11-28T11:26:25.838Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:46.014Z"
+    "last_updated": "2022-11-23T17:25:46.014Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://shibatoken.com/"
   },
   {
     "id": "solana",
@@ -481,7 +513,9 @@
     "atl_change_percentage": 2562.53964,
     "atl_date": "2020-05-11T19:35:23.449Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.730Z"
+    "last_updated": "2022-11-23T17:25:42.730Z",
+    "tags": "Solana Ecosystem",
+    "website": "https://solana.com/"
   },
   {
     "id": "tron",
@@ -513,7 +547,9 @@
       "currency": "usd",
       "percentage": 2569.4098238245147
     },
-    "last_updated": "2022-11-23T17:25:44.133Z"
+    "last_updated": "2022-11-23T17:25:44.133Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://tron.network/"
   },
   {
     "id": "uniswap",
@@ -541,7 +577,9 @@
     "atl_change_percentage": 423.92161,
     "atl_date": "2020-09-17T01:20:38.214Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.879Z"
+    "last_updated": "2022-11-23T17:25:42.879Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://uniswap.org/"
   },
   {
     "id": "leo-token",
@@ -569,7 +607,9 @@
     "atl_change_percentage": 429.32803,
     "atl_date": "2019-12-24T15:14:35.376Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:30.437Z"
+    "last_updated": "2022-11-23T17:25:30.437Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.bitfinex.com/"
   },
   {
     "id": "wrapped-bitcoin",
@@ -597,7 +637,9 @@
     "atl_change_percentage": 418.39692,
     "atl_date": "2019-04-02T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:46.383Z"
+    "last_updated": "2022-11-23T17:25:46.383Z",
+    "tags": "Velas Ecosystem",
+    "website": "https://wbtc.network/"
   },
   {
     "id": "avalanche-2",
@@ -625,7 +667,8 @@
     "atl_change_percentage": 346.05368,
     "atl_date": "2020-12-31T13:15:21.540Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.963Z"
+    "tags": "Moonbeam Ecosystem",
+    "website": "https://www.avax.network/"
   },
   {
     "id": "chainlink",
@@ -653,7 +696,9 @@
     "atl_change_percentage": 4217.23855,
     "atl_date": "2017-11-29T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:22.866Z"
+    "last_updated": "2022-11-23T17:25:22.866Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://chain.link/"
   },
   {
     "id": "cosmos",
@@ -685,7 +730,9 @@
       "currency": "usd",
       "percentage": 9602.356638441894
     },
-    "last_updated": "2022-11-23T17:25:43.487Z"
+    "last_updated": "2022-11-23T17:25:43.487Z",
+    "tags": "Cosmos Ecosystem",
+    "website": "https://cosmos.network/"
   },
   {
     "id": "ethereum-classic",
@@ -717,7 +764,9 @@
       "currency": "usd",
       "percentage": 4233.56261819134
     },
-    "last_updated": "2022-11-23T17:25:43.882Z"
+    "last_updated": "2022-11-23T17:25:43.882Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://ethereumclassic.org/"
   },
   {
     "id": "the-open-network",
@@ -745,7 +794,9 @@
     "atl_change_percentage": 233.16687,
     "atl_date": "2021-09-21T00:33:11.092Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.303Z"
+    "last_updated": "2022-11-23T17:25:42.303Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://ton.org/"
   },
   {
     "id": "monero",
@@ -773,7 +824,9 @@
     "atl_change_percentage": 62419.0505,
     "atl_date": "2015-01-14T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.784Z"
+    "last_updated": "2022-11-23T17:25:43.784Z",
+    "tags": "Privacy Coins",
+    "website": "https://www.getmonero.org/"
   },
   {
     "id": "stellar",
@@ -801,7 +854,9 @@
     "atl_change_percentage": 18263.26052,
     "atl_date": "2015-03-05T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.124Z"
+    "last_updated": "2022-11-23T17:25:45.124Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://www.stellar.org/"
   },
   {
     "id": "bitcoin-cash",
@@ -829,7 +884,9 @@
     "atl_change_percentage": 48.71119,
     "atl_date": "2018-12-16T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.177Z"
+    "last_updated": "2022-11-23T17:25:45.177Z",
+    "tags": "Cryptocurrency",
+    "website": "https://bch.info/en/"
   },
   {
     "id": "algorand",
@@ -861,7 +918,9 @@
       "currency": "usd",
       "percentage": -89.89850973469841
     },
-    "last_updated": "2022-11-23T17:25:46.357Z"
+    "last_updated": "2022-11-23T17:25:46.357Z",
+    "tags": "Algorand Ecosystem",
+    "website": "https://www.algorand.foundation/"
   },
   {
     "id": "crypto-com-chain",
@@ -889,7 +948,9 @@
     "atl_change_percentage": 445.2076,
     "atl_date": "2019-02-08T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.564Z"
+    "last_updated": "2022-11-23T17:25:43.564Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://crypto.com/"
   },
   {
     "id": "quant-network",
@@ -921,7 +982,9 @@
       "currency": "eth",
       "percentage": 3967.024548249277
     },
-    "last_updated": "2022-11-23T17:25:42.533Z"
+    "last_updated": "2022-11-23T17:25:42.533Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://quant.network/"
   },
   {
     "id": "filecoin",
@@ -949,7 +1012,9 @@
     "atl_change_percentage": 7.63673,
     "atl_date": "2022-11-21T19:40:24.535Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:47.617Z"
+    "last_updated": "2022-11-23T17:25:47.617Z",
+    "tags": "Storage",
+    "website": "https://filecoin.io/"
   },
   {
     "id": "vechain",
@@ -981,7 +1046,9 @@
       "currency": "eth",
       "percentage": 464.5907725897356
     },
-    "last_updated": "2022-11-23T17:25:42.041Z"
+    "last_updated": "2022-11-23T17:25:42.041Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://www.vechain.org/"
   },
   {
     "id": "near",
@@ -1009,7 +1076,9 @@
     "atl_change_percentage": 204.10808,
     "atl_date": "2020-11-04T16:09:15.137Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:41.821Z"
+    "last_updated": "2022-11-23T17:25:41.821Z",
+    "tags": "Near Protocol Ecosystem",
+    "website": "https://near.org/"
   },
   {
     "id": "flow",
@@ -1037,7 +1106,9 @@
     "atl_change_percentage": 6.80938,
     "atl_date": "2022-11-22T10:04:50.142Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:41.103Z"
+    "last_updated": "2022-11-23T17:25:41.103Z",
+    "tags": "NFT",
+    "website": "https://flow.com/"
   },
   {
     "id": "apecoin",
@@ -1065,7 +1136,9 @@
     "atl_change_percentage": 26.47162,
     "atl_date": "2022-11-14T04:22:00.792Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:26.956Z"
+    "last_updated": "2022-11-23T17:25:26.956Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://apecoin.com/"
   },
   {
     "id": "frax",
@@ -1093,7 +1166,9 @@
     "atl_change_percentage": 11.93848,
     "atl_date": "2021-12-04T05:33:57.315Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.983Z"
+    "last_updated": "2022-11-23T17:25:44.983Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://frax.finance/"
   },
   {
     "id": "hedera-hashgraph",
@@ -1121,7 +1196,9 @@
     "atl_change_percentage": 380.63081,
     "atl_date": "2020-01-02T17:30:24.852Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:37.603Z"
+    "last_updated": "2022-11-23T17:25:37.603Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://hedera.com/"
   },
   {
     "id": "internet-computer",
@@ -1149,7 +1226,9 @@
     "atl_change_percentage": 7.7961,
     "atl_date": "2022-11-22T10:01:59.363Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.386Z"
+    "last_updated": "2022-11-23T17:25:45.386Z",
+    "tags": "Internet Computer Ecosystem",
+    "website": "https://internetcomputer.org/"
   },
   {
     "id": "elrond-erd-2",
@@ -1177,7 +1256,9 @@
     "atl_change_percentage": 536.39277,
     "atl_date": "2020-10-07T01:44:53.554Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.834Z"
+    "last_updated": "2022-11-23T17:25:43.834Z",
+    "tags": "Elrond Ecosystem",
+    "website": "https://multiversx.com/"
   },
   {
     "id": "eos",
@@ -1209,7 +1290,9 @@
       "currency": "usd",
       "percentage": -9.538050154605232
     },
-    "last_updated": "2022-11-23T17:25:47.385Z"
+    "last_updated": "2022-11-23T17:25:47.385Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://eosnetwork.com/"
   },
   {
     "id": "chiliz",
@@ -1241,7 +1324,9 @@
       "currency": "usd",
       "percentage": 720.26992746894
     },
-    "last_updated": "2022-11-23T17:25:44.670Z"
+    "last_updated": "2022-11-23T17:25:44.670Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.chiliz.com/en/"
   },
   {
     "id": "terra-luna",
@@ -1269,7 +1354,9 @@
     "atl_change_percentage": 15926.94391,
     "atl_date": "2022-05-13T02:34:40.340Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.667Z"
+    "last_updated": "2022-11-23T17:25:42.667Z",
+    "tags": "Fantom Ecosystem",
+    "website": "https://www.terra.money/"
   },
   {
     "id": "paxos-standard",
@@ -1301,7 +1388,9 @@
       "currency": "usd",
       "percentage": 0.1929354287768
     },
-    "last_updated": "2022-11-23T17:25:45.983Z"
+    "last_updated": "2022-11-23T17:25:45.983Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.paxos.com/standard/"
   },
   {
     "id": "chain-2",
@@ -1329,7 +1418,9 @@
     "atl_change_percentage": 1374.16436,
     "atl_date": "2022-06-14T06:35:07.084Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:40.611Z"
+    "last_updated": "2022-11-23T17:25:40.611Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.chain.com/"
   },
   {
     "id": "tezos",
@@ -1361,7 +1452,9 @@
       "currency": "usd",
       "percentage": 109.53008538604044
     },
-    "last_updated": "2022-11-23T17:25:42.914Z"
+    "last_updated": "2022-11-23T17:25:42.914Z",
+    "tags": "Tezos Ecosystem", 
+    "website": "https://tezos.com/"
   },
   {
     "id": "trust-wallet-token",
@@ -1389,7 +1482,9 @@
     "atl_change_percentage": 76581.91496,
     "atl_date": "2020-06-09T09:15:06.983Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:31.512Z"
+    "last_updated": "2022-11-23T17:25:31.512Z",
+    "tags": "Near Protocol Ecosystem", 
+    "website": "https://trustwallet.com/"
   },
   {
     "id": "the-sandbox",
@@ -1417,7 +1512,9 @@
     "atl_change_percentage": 1837.58839,
     "atl_date": "2020-11-04T15:59:14.441Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:45.283Z"
+    "last_updated": "2022-11-23T17:25:45.283Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.sandbox.game/en/"
   },
   {
     "id": "lido-dao",
@@ -1445,7 +1542,9 @@
     "atl_change_percentage": 178.21085,
     "atl_date": "2022-06-18T20:55:12.035Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:47.292Z"
+    "last_updated": "2022-11-23T17:25:47.292Z",
+    "tags": "Liquid Staking Goverance Tokens",
+    "website": "https://stake.lido.fi/"
   },
   {
     "id": "theta-token",
@@ -1477,7 +1576,9 @@
       "currency": "usd",
       "percentage": 475.8372640247512
     },
-    "last_updated": "2022-11-23T17:25:45.517Z"
+    "last_updated": "2022-11-23T17:25:45.517Z",
+    "tags": "NFT", 
+    "website": "https://www.thetatoken.org/"
   },
   {
     "id": "aave",
@@ -1505,7 +1606,9 @@
     "atl_change_percentage": 119.0004,
     "atl_date": "2020-11-05T09:20:11.928Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:40.618Z"
+    "last_updated": "2022-11-23T17:25:40.618Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://app.aave.com/?referral=93"
   },
   {
     "id": "axie-infinity",
@@ -1533,7 +1636,9 @@
     "atl_change_percentage": 5418.54792,
     "atl_date": "2020-11-06T08:05:43.662Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.598Z"
+    "last_updated": "2022-11-23T17:25:43.598Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://axieinfinity.com/"
   },
   {
     "id": "bitcoin-cash-sv",
@@ -1561,7 +1666,9 @@
     "atl_change_percentage": 12.97825,
     "atl_date": "2022-11-09T22:10:15.324Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.282Z"
+    "last_updated": "2022-11-23T17:25:43.282Z",
+    "tags": "none",
+    "website": "https://bitcoinsv.com/"
   },
   {
     "id": "true-usd",
@@ -1589,7 +1696,9 @@
     "atl_change_percentage": 13.17613,
     "atl_date": "2020-03-12T10:47:51.380Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.158Z"
+    "last_updated": "2022-11-23T17:25:42.158Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://tusd.io/"
   },
   {
     "id": "usdd",
@@ -1617,7 +1726,9 @@
     "atl_change_percentage": 7.0261,
     "atl_date": "2022-06-19T16:15:11.558Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.903Z"
+    "last_updated": "2022-11-23T17:25:44.903Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://usdd.io/"
   },
   {
     "id": "decentraland",
@@ -1649,7 +1760,9 @@
       "currency": "usd",
       "percentage": 1841.357490825577
     },
-    "last_updated": "2022-11-23T17:25:27.657Z"
+    "last_updated": "2022-11-23T17:25:27.657Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://decentraland.org/"
   },
   {
     "id": "huobi-token",
@@ -1681,7 +1794,9 @@
       "currency": "usd",
       "percentage": 433.70620584955594
     },
-    "last_updated": "2022-11-23T17:25:37.302Z"
+    "last_updated": "2022-11-23T17:25:37.302Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.huobi.com/"
   },
   {
     "id": "compound-usd-coin",
@@ -1709,7 +1824,9 @@
     "atl_change_percentage": 266.11922,
     "atl_date": "2021-03-04T08:11:37.438Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:24:47.927Z"
+    "last_updated": "2022-11-23T17:24:47.927Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://compound.finance/"
   },
   {
     "id": "kucoin-shares",
@@ -1737,7 +1854,9 @@
     "atl_change_percentage": 1867.26817,
     "atl_date": "2019-02-07T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:33.477Z"
+    "last_updated": "2022-11-23T17:25:33.477Z",
+    "tags": "Centralized Exchange(CEX)", 
+    "website": "https://www.kucoin.com/ucenter/signup?rcode=e21sNJ"
   },
   {
     "id": "bittorrent",
@@ -1765,7 +1884,9 @@
     "atl_change_percentage": 3.63384,
     "atl_date": "2022-11-21T22:30:38.126Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:31.443Z"
+    "last_updated": "2022-11-23T17:25:31.443Z",
+    "tags": "Bittorrent", 
+    "website": "https://www.bittorrent.com/token/btt/"
   },
   {
     "id": "gemini-dollar",
@@ -1797,7 +1918,9 @@
       "currency": "usd",
       "percentage": 0.0734073479277
     },
-    "last_updated": "2022-11-23T17:25:46.229Z"
+    "last_updated": "2022-11-23T17:25:46.229Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.gemini.com/dollar"
   },
   {
     "id": "iota",
@@ -1829,7 +1952,9 @@
       "currency": "btc",
       "percentage": 890.3244679551963
     },
-    "last_updated": "2022-11-23T17:25:46.407Z"
+    "last_updated": "2022-11-23T17:25:46.407Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://www.iota.org/"
   },
   {
     "id": "whitebit",
@@ -1857,7 +1982,9 @@
     "atl_change_percentage": 60.10206,
     "atl_date": "2022-09-21T23:38:03.675Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:14.112Z"
+    "last_updated": "2022-11-23T17:25:14.112Z",
+    "tags": "Whitebit",
+    "website": "https://whitebit.com/"
   },
   {
     "id": "maker",
@@ -1885,7 +2012,9 @@
     "atl_change_percentage": 286.61495,
     "atl_date": "2020-03-16T20:52:36.527Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.377Z"
+    "last_updated": "2022-11-23T17:25:42.377Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://makerdao.com/en/"
   },
   {
     "id": "ecash",
@@ -1913,7 +2042,9 @@
     "atl_change_percentage": 61.24004,
     "atl_date": "2021-07-20T20:49:46.212Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.153Z"
+    "last_updated": "2022-11-23T17:25:44.153Z",
+    "tags": "Governance",
+    "website": "https://e.cash/"
   },
   {
     "id": "tokenize-xchange",
@@ -1945,7 +2076,9 @@
       "currency": "usd",
       "percentage": 2362.2111651470773
     },
-    "last_updated": "2022-11-23T17:25:02.502Z"
+    "last_updated": "2022-11-23T17:25:02.502Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://tokenize.exchange/"
   },
   {
     "id": "pancakeswap-token",
@@ -1973,7 +2106,9 @@
     "atl_change_percentage": 1908.92315,
     "atl_date": "2020-11-03T14:29:34.165Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.972Z"
+    "last_updated": "2022-11-23T17:25:44.972Z",
+    "tags": "BNB Chain Ecosystem",
+    "website": "https://pancakeswap.finance/"
   },
   {
     "id": "zcash",
@@ -2001,7 +2136,9 @@
     "atl_change_percentage": 118.8064,
     "atl_date": "2020-03-13T02:20:55.002Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.122Z"
+    "last_updated": "2022-11-23T17:25:44.122Z",
+    "tags": "Privacy Coins",
+    "website": "https://z.cash/"
   },
   {
     "id": "aptos",
@@ -2029,7 +2166,9 @@
     "atl_change_percentage": 21.13875,
     "atl_date": "2022-11-09T21:47:16.895Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:40.104Z"
+    "last_updated": "2022-11-23T17:25:40.104Z",
+    "tags": "none",
+    "website": "https://aptoslabs.com/"
   },
   {
     "id": "klay-token",
@@ -2057,7 +2196,9 @@
     "atl_change_percentage": 201.12363,
     "atl_date": "2020-04-29T08:19:34.574Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.696Z"
+    "last_updated": "2022-11-23T17:25:42.696Z",
+    "tags": "klay-token",
+    "website": "https://www.klaytn.foundation/"
   },
   {
     "id": "gatechain-token",
@@ -2085,7 +2226,9 @@
     "atl_change_percentage": 1284.29156,
     "atl_date": "2020-03-13T02:18:02.481Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:28.123Z"
+    "last_updated": "2022-11-23T17:25:28.123Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://gatechain.io/"
   },
   {
     "id": "osmosis",
@@ -2113,7 +2256,9 @@
     "atl_change_percentage": 51.88776,
     "atl_date": "2022-06-18T20:27:33.261Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:41.004Z"
+    "last_updated": "2022-11-23T17:25:41.004Z",
+    "tags": "Cosmos Ecosystem",
+    "website": "https://osmosis.zone/"
   },
   {
     "id": "btse-token",
@@ -2145,7 +2290,9 @@
       "currency": "usd",
       "percentage": 51.05130579506355
     },
-    "last_updated": "2022-11-23T17:25:19.695Z"
+    "last_updated": "2022-11-23T17:25:19.695Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://www.btse.com/en/token/"
   },
   {
     "id": "neo",
@@ -2177,7 +2324,9 @@
       "currency": "usd",
       "percentage": 19142.063602802078
     },
-    "last_updated": "2022-11-23T17:25:43.232Z"
+    "last_updated": "2022-11-23T17:25:43.232Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://neo.org/"
   },
   {
     "id": "pax-gold",
@@ -2205,7 +2354,9 @@
     "atl_change_percentage": 24.12185,
     "atl_date": "2019-11-18T03:09:35.959Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.022Z"
+    "last_updated": "2022-11-23T17:25:42.022Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://paxos.com/paxgold/"
   },
   {
     "id": "dash",
@@ -2233,7 +2384,9 @@
     "atl_change_percentage": 19631.97093,
     "atl_date": "2014-02-14T00:00:00.000Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.919Z"
+    "last_updated": "2022-11-23T17:25:44.919Z",
+    "tags": "Governance",
+    "website": "https://www.dash.org/"
   },
   {
     "id": "arweave",
@@ -2265,7 +2418,9 @@
       "currency": "usd",
       "percentage": 1154.1686760992282
     },
-    "last_updated": "2022-11-23T17:25:42.247Z"
+    "last_updated": "2022-11-23T17:25:42.247Z",
+    "tags": "Storage",
+    "website": "https://www.arweave.org/"
   },
   {
     "id": "the-graph",
@@ -2293,7 +2448,9 @@
     "atl_change_percentage": 18.47115,
     "atl_date": "2022-11-22T10:05:03.503Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:47.101Z"
+    "last_updated": "2022-11-23T17:25:47.101Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://thegraph.com/en/"
   },
   {
     "id": "fantom",
@@ -2325,7 +2482,9 @@
       "currency": "usd",
       "percentage": 497.848133890309
     },
-    "last_updated": "2022-11-23T17:25:44.499Z"
+    "last_updated": "2022-11-23T17:25:44.499Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://fantom.foundation/"
   },
   {
     "id": "compound-ether",
@@ -2353,7 +2512,9 @@
     "atl_change_percentage": 1133.83271,
     "atl_date": "2020-03-13T02:22:33.711Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:24:46.377Z"
+    "last_updated": "2022-11-23T17:24:46.377Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://compound.finance/"
   },
   {
     "id": "tether-gold",
@@ -2381,7 +2542,9 @@
     "atl_change_percentage": 17.92384,
     "atl_date": "2020-03-19T13:45:41.821Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:34.637Z"
+    "last_updated": "2022-11-23T17:25:34.637Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://tether.to/"
   },
   {
     "id": "havven",
@@ -2413,7 +2576,9 @@
       "currency": "usd",
       "percentage": 245.6423650163212
     },
-    "last_updated": "2022-11-23T17:25:42.592Z"
+    "last_updated": "2022-11-23T17:25:42.592Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://synthetix.io/"
   },
   {
     "id": "binaryx",
@@ -2441,7 +2606,9 @@
     "atl_change_percentage": 892.21942,
     "atl_date": "2021-09-12T21:15:31.672Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:39.840Z"
+    "last_updated": "2022-11-23T17:25:39.840Z",
+    "tags": "BNB Chain Ecosystem",
+    "website": "https://www.binaryx.pro/chess"
   },
   {
     "id": "curve-dao-token",
@@ -2469,7 +2636,9 @@
     "atl_change_percentage": 92.04881,
     "atl_date": "2020-11-05T13:09:50.181Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:43.305Z"
+    "last_updated": "2022-11-23T17:25:43.305Z",
+    "tags": "Optimism Ecosystem",
+    "website": "https://curve.fi/"
   },
   {
     "id": "mina-protocol",
@@ -2497,7 +2666,9 @@
     "atl_change_percentage": 8.20622,
     "atl_date": "2022-11-22T11:21:54.771Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:44.039Z"
+    "last_updated": "2022-11-23T17:25:44.039Z",
+    "tags": "mina-protocol",
+    "website": "https://minaprotocol.com/"
   },
   {
     "id": "cdai",
@@ -2525,7 +2696,9 @@
     "atl_change_percentage": 203.19711,
     "atl_date": "2020-03-18T04:29:40.819Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:10.055Z"
+    "last_updated": "2022-11-23T17:25:10.055Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://compound.finance/"
   },
   {
     "id": "radix",
@@ -2553,7 +2726,9 @@
     "atl_change_percentage": 9.38553,
     "atl_date": "2022-11-22T12:46:08.023Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:46.008Z"
+    "last_updated": "2022-11-23T17:25:46.008Z",
+    "tags": "Smart Contract Platform",
+    "website": "https://www.radixdlt.com/"
   },
   {
     "id": "nexo",
@@ -2585,7 +2760,9 @@
       "currency": "usd",
       "percentage": 587.2309716838247
     },
-    "last_updated": "2022-11-23T17:25:40.899Z"
+    "last_updated": "2022-11-23T17:25:40.899Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://nexo.io/"
   },
   {
     "id": "ethereum-pow-iou",
@@ -2613,7 +2790,9 @@
     "atl_change_percentage": 8.03713,
     "atl_date": "2022-11-22T10:06:25.972Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:40.952Z"
+    "last_updated": "2022-11-23T17:25:40.952Z",
+    "tags": "EthereumPoW Ecosystem",
+    "website": "https://ethereumpow.org/"
   },
   {
     "id": "thorchain",
@@ -2645,7 +2824,9 @@
       "currency": "usd",
       "percentage": 2928.892243657005
     },
-    "last_updated": "2022-11-23T17:25:43.491Z"
+    "last_updated": "2022-11-23T17:25:43.491Z",
+    "tags": "Cosmos Ecosystem",
+    "website": "https://thorchain.org/"
   },
   {
     "id": "gmx",
@@ -2673,7 +2854,9 @@
     "atl_change_percentage": 258.64796,
     "atl_date": "2022-06-15T09:30:22.146Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:41.670Z"
+    "last_updated": "2022-11-23T17:25:41.670Z",
+    "tags": "Arbitrum Ecosystem",
+    "website": "https://gmx.io/"
   },
   {
     "id": "basic-attention-token",
@@ -2705,7 +2888,9 @@
       "currency": "eth",
       "percentage": 26.392560471398784
     },
-    "last_updated": "2022-11-23T17:25:43.866Z"
+    "last_updated": "2022-11-23T17:25:43.866Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://basicattentiontoken.org/"
   },
   {
     "id": "zilliqa",
@@ -2737,7 +2922,9 @@
       "currency": "eth",
       "percentage": 127.44490549152079
     },
-    "last_updated": "2022-11-23T17:25:46.704Z"
+    "last_updated": "2022-11-23T17:25:46.704Z",
+    "tags": "Zilliqa Ecosystem",
+    "website": "https://www.zilliqa.com/"
   },
   {
     "id": "ethereum-name-service",
@@ -2765,7 +2952,9 @@
     "atl_change_percentage": 73.27169,
     "atl_date": "2022-06-14T02:00:36.378Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:42.510Z"
+    "last_updated": "2022-11-23T17:25:42.510Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://ens.domains/"
   },
   {
     "id": "1inch",
@@ -2793,7 +2982,9 @@
     "atl_change_percentage": 8.37624,
     "atl_date": "2022-11-14T04:21:24.509Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:46.164Z"
+    "last_updated": "2022-11-23T17:25:46.164Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://1inch.io/"
   },
   {
     "id": "evmos",
@@ -2821,7 +3012,9 @@
     "atl_change_percentage": 2.58108,
     "atl_date": "2022-11-22T08:11:09.870Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:47.080Z"
+    "last_updated": "2022-11-23T17:25:47.080Z",
+    "tags": "Ethereum Ecosystem",
+    "website": "https://evmos.org/"
   },
   {
     "id": "helium",
@@ -2849,7 +3042,9 @@
     "atl_change_percentage": 2077.44044,
     "atl_date": "2020-04-18T00:19:10.902Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:37.508Z"
+    "last_updated": "2022-11-23T17:25:37.508Z",
+    "tags": "Internet of Things(IOT)",
+    "website": "https://www.helium.com/"
   },
   {
     "id": "xdce-crowd-sale",
@@ -2881,7 +3076,9 @@
       "currency": "eth",
       "percentage": 174.080417116979
     },
-    "last_updated": "2022-11-23T17:25:32.820Z"
+    "last_updated": "2022-11-23T17:25:32.820Z",
+    "tags": "XDC Ecosystem",
+    "website": "https://www.xinfin.io/"
   },
   {
     "id": "kava",
@@ -2909,7 +3106,9 @@
     "atl_change_percentage": 241.54816,
     "atl_date": "2020-03-13T02:24:16.835Z",
     "roi": null,
-    "last_updated": "2022-11-23T17:25:36.225Z"
+    "last_updated": "2022-11-23T17:25:36.225Z",
+    "tags": "Lending/Borrowing",
+    "website": "https://www.kava.io/"
   },
   {
     "id": "casper-network",
